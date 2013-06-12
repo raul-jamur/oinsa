@@ -13,6 +13,10 @@ Atu Tama baa file nee nia laran halo tuir formatu tuir mai nee:
 
 <code>
 deb http://host/ubuntu distribution section1 section2 section3
+</code>
+
+
+<code>
 deb-src http://host/ubuntu distribution section1 section2 section3
 </code>
 
