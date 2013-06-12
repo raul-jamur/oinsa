@@ -1,7 +1,7 @@
 #Oinsaa Uja SCP ??
 SCP liafuan badak husi *Secure Copy* maka fasilidade nebee atu halo transferensia data husi Komputer ida ba Komputer seluk.
-Protokolu ida nee lao iha port _(Odamatan)_ 22, no presija aksesu shell *(Karik iha Linux)* ba server rua nee.
-Tamba pakete data nebee transfere uluk tiha ona hetan tiha ona Enkripsaun, maka sei akontese velosidade transfere data nee, mais ou menos 60-70% kleur liu do que atu uja FTP ou wget husi HTTP.
+Protokolu ida nee lao iha port _(Odamatan)_ 22, no presija aksesu iha shell *(Karik iha Linux)* ba server rua nee.
+Tamba pakote data nebee transfere uluk tiha ona hetan ou iha ona Enkripsaun, maka sei akontese velosidade nebee lalais atu transfere data nee, mais ou menos 60-70% kleur liu do que atu uja FTP ou wget husi HTTP.
 
 Ida nee maka ezemplu atu uja SCP atu halo transferensia data;
 
