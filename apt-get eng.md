@@ -1,3 +1,6 @@
+Title: How to use apt-get
+Date: 2013-07-01 11:12
+
 #How to use apt-get
 
 apt-get's commands are very easy and intuitive.

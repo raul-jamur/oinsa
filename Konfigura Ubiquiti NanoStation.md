@@ -1,3 +1,6 @@
+Title: Nanostation
+Date: 2013-07-01 12:08
+
 Konfigura Ubiquiti NanoStation2 Loco
 ======================================
 

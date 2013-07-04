@@ -1,5 +1,9 @@
-Oinsaa atu install Apache ??
-=========================
+Title: Installing Apache2
+Date: 2013-07-01 17:48
+
+
+
+##Oinsaa atu install Apache ??
 
 ##Primeiro ita tenki Uja ordem *apt* _(Advanced Packaging Tool)_ Ordem ida Iha Ubuntu
 

@@ -1,4 +1,9 @@
-#Ordem Basico (Basic Command) iha Ubuntu By Raul Jamur Inside
+Title: Ordem Basiku
+Date: 2013-07-01 21:52
+
+
+
+####Ordem Basico (Basic Command) iha Ubuntu By Raul Jamur Inside
 
 Ordem (command) basiku iha GNU/Linux halao iha shell ida nebee bai-bain hanaran _terminal_ ou console. Terminal ou console nee rekonese ho naran _Command Line Interface (CLI)_ nebee bele aktiva hanesan klik ou hili Menu Applications – Accessories – Terminal. Dalan seluk bele mos halao husi Console los det nia lalaok mak hanehan ctrl+alt+F1 iha Keyboard iha Keyboard F1 hanehan koko to F6. Atu fila fali mai mode Grafical User Interface (GUI) Hanehan ctrl+alt+F7 iha Keyboard. Tuir mai iha Ordem (command) jeral nebee hetan iha distribuisaun ida-idak iha GNU/Linux liu-liu iha distribuisaun Ubuntu.
 
