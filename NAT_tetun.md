@@ -9,7 +9,9 @@ Konseptu no Implementasaun NAT (Network Address Translation)  Husi : Raul Jamur
 
 _Network Address Translation_ ou belee habadak ho naran NAT, mosu wainhira fatin baa IP (Internet Protocol) versaun 4 mihis liu ona no rede komputador tenki halo klasifikasaun sai fali Rede Publiku ou ida nebee mak ita bai-bain konyese ho naran Rede Internet no mos Rede Privadu ou ida nebee mak ita konyese ho naran <strong>_Rede Area Lokal_</strong> (Local Area Network). Se karik antes nee ita aprende tiha ona  konseptu Routing, entaun ita sei hatene Host ida-idak nebee mak halo Koneksaun ba malu ho Host seluk nebee mak iha baa rede (network) nebee la hanesan tenki halao Route ba malu baa rede (network) nebee objektivu, atu hatene klean liu tan belee haree imazem tuir mai nee.
 
+![Figura 1](/home/jamur/Desktop/PKL/route.jpg)
 
+![Figura 1](/home/jamur/Desktop/PKL/route.jpg)
 Figura-01. Routing Direksaun Rua
 
 Host iha Rede (Network) A halao tiha ona konfigurasaun route ba Rede (Network) B liu husi interface eth1 Router, hanesan mos Server iha Rede (Network) B halao tiha ona konfigurasaun route ba Rede (Network) A liu husi interface eth0 Router.
