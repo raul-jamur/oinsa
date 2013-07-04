@@ -1,3 +1,8 @@
+Title: DNS
+Date: 2013-07-01 12:06
+
+
+
 Saida mak _DNS_ ??
 ==============
 DNS liafuan mai husi Domain Name System uja para atu bele hatene ou descobre ita nia <strong>_ip address_</strong> husi host liu husi host 

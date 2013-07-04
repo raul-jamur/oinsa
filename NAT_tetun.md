@@ -1,5 +1,8 @@
+Title: Implementasaun NAT
+Date: 2013-07-01 21:54
+
+
 Konseptu no Implementasaun NAT (Network Address Translation)  Husi : Raul Jamur
-=============================================================
 
 
 ### A. Tamba saa presiza NAT?
