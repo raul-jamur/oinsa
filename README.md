@@ -2,14 +2,14 @@ Rekursu iha lian Tetun
 ======================
 
 
-Rekursu hirak nee foti husi site-site nebee prepara rekursu sira iha lian Inggle no Bahasa Indonesia....
+Rekursu hirak nee foti husi site-site nebee prepara rekursu sira iha lian Inggles no Bahasa Indonesia....
 
 Rekrsu hirak nee halo no hadia husi:
 
-Naran: Raul Amaral
-Status: Estudante (D.I.T)
-Hela Fatin: Becora - Becussi Centro
-No. Telefone: +(670) 7732 6789
+	Naran: Raul Amaral
+	Status: Estudante (D.I.T)
+	Hela Fatin: Becora - Becussi Centro
+	No. Telefone: +(670) 7732 6789
 
 
 Karik maluk estudante Timor Oan nebee hakarak halo mos hanesan buat nebee hau halo 
