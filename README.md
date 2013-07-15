@@ -1,3 +1,7 @@
+Title: README
+Date: 2013-07-15 17:03
+
+
 Rekursu iha lian Tetun
 ======================
 
