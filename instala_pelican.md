@@ -35,7 +35,7 @@ Pelican instala hotu ona,ita belee uja atu belee muda Markdown ou konten sira ne
 
     $ pelican /path/to/your/content/ [-s path/to/your/settings.py] 
 
-Ordem nebee iha leten sei kria situs ida no no sei rai iha output / folder, uja tema default aut belee kria situs ida nebee simples. Tema default nee mai husi HTML nebee simples no la uja styling no mos prepara ba ema foin mak atu aprende halo nia tema rasik. 
+Ordem nebee iha leten sei kria situs ida no no sei rai iha output / folder, uja tema default atu belee kria situs ida nebee simples. Tema default nee mai husi HTML nebee simples no la uja styling no mos prepara ba ema foin mak atu aprende halo nia tema rasik. 
 
 Ita mos belee fo hatene baa Pelican atu ita belee haree modifikasaun nebee ita kria ou halo, laos manual wainhira ita hakarak atu haree fali ita nia modifikasaun. Atu aktiva ida nee, uja ordem pelican ho -r opsaun – autoreload nian.
  
