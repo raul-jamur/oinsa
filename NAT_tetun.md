@@ -130,7 +130,7 @@ atau
 
 Ida nee mak modelu seluk husi implementasaun Port Address Translation.
 
-
+![Figura 1](http://127.0.0.1/grey/img/portforward.jpg)
 Figura-11. PAT (bai-bain konyese ho naran Port Forwarding)
 
 Ordem ba iptables Router Linux:
@@ -143,7 +143,7 @@ Perintah MikroTik Router OS:
   action=dst-nat to-addresses=10.0.0.2 to-ports=80
 
 
-
+![Figura 1](http://127.0.0.1/grey/img/portdirek.jpg)
 Figura-12. PAT (bai-bain koyese ho naran Port Redirection)
 
 Ordem ba iptables Router Linux:
